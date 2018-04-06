@@ -4,6 +4,7 @@
 # Hint: use the `paste()` function and vector recycling to add a number to the word
 # "Employee"
 
+employees <- data.frame()
 
 # Create a vector of 100 random salaries for the year 2017
 # Use the `runif()` function to pick random numbers between 40000 and 50000
